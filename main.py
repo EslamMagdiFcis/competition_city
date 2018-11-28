@@ -1,4 +1,3 @@
-# Add python code in this file
 import csv
 
 
